@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">Bienvenidos a mi APP Calculadora</string>
+    <string name="calcimage">CalcImage</string>
+    <string name="n1text">Introduce el primer número</string>
+    <string name="n2text">Introduce el segundo número</string>
+    <string name="n1hint">Número 1</string>
+    <string name="n2hint">Número 2</string>
+    <string name="sum">Sumar</string>
+    <string name="rest">Restar</string>
+    <string name="mult">Multiplicar</string>
+    <string name="div">Dividir</string>
+    <string name="result">Resultado:</string>
+</resources>

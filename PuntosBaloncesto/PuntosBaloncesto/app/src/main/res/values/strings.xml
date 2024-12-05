@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PuntosBaloncesto</string>
+    <string name="local">LOCAL</string>
+    <string name="tiro_libre">TIRO LIBRE</string>
+    <string name="canasta">CANASTA</string>
+    <string name="triple">TRIPLE</string>
+    <string name="_1_punto">-1 PUNTO</string>
+    <string name="puntos">PUNTOS</string>
+    <string name="visitante">VISITANTE</string>
+    <string name="reiniciar">REINICIAR</string>
+    <string name="fin_partido">FIN PARTIDO</string>
+    <string name="puntos_baloncesto">PUNTOS BALONCESTO</string>
+    <string name="local_ganador">LOCAL GANADOR</string>
+    <string name="visitante_ganador">VISITANTE GANADOR</string>
+    <string name="empate">EMPATE</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cine</string>
+    <string name="batman">Batman</string>
+    <string name="spiderman">Spiderman</string>
+    <string name="xmen">XMen</string>
+    <string name="ironman">Ironman</string>
+    <string name="interestellar">Interestellar</string>
+    <string name="superman">Superman</string>
+</resources>

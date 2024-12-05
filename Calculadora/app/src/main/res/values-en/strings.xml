@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="titulo">Welcome to my Calculator APP</string>
+    <string name="calcimage">CalcImage</string>
+    <string name="n1text">Set the first number</string>
+    <string name="n2text">Set the second number</string>
+    <string name="n1hint">Number 1</string>
+    <string name="n2hint">Number 2</string>
+    <string name="sum">Plus</string>
+    <string name="rest">Minus</string>
+    <string name="mult">Multiply</string>
+    <string name="div">Divide</string>
+    <string name="result">Result:</string>
+</resources>

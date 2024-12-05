@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199952128153",
+    "project_id": "pruebadam-926d3",
+    "storage_bucket": "pruebadam-926d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199952128153:android:272126cc1d1a0cf2758008",
+        "android_client_info": {
+          "package_name": "com.PabloSor.practica17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199952128153-n11qubuk3kge0u0m80mksqem1hft9mdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.PabloSor.practica17",
+            "certificate_hash": "f2d575d2eda076d3a29851ffacc6c5999089dc20"
+          }
+        },
+        {
+          "client_id": "199952128153-dq1b1lunc6sg51op8jrpkis8fn6dkeqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7rF-Es5EYMSAcAEih23wmPtSNXGlcxls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199952128153-dq1b1lunc6sg51op8jrpkis8fn6dkeqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

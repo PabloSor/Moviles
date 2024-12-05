@@ -1,0 +1,37 @@
+<resources>
+    <string name="pregunta_1">What is the name of the region in space where a black hole\'s gravity is so strong that nothing, not even light, can escape?</string>
+    <string name="respuesta_a_1">Event Horizon</string>
+    <string name="respuesta_b_1">Perihelion</string>
+
+    <string name="pregunta_2">Which planet in the solar system has the longest day relative to its rotation?</string>
+    <string name="respuesta_a_2">Venus</string>
+    <string name="respuesta_b_2">Saturn</string>
+
+    <string name="pregunta_3">What was the first space probe to reach Pluto and send back detailed images of it?</string>
+    <string name="respuesta_a_3">New Horizons</string>
+    <string name="respuesta_b_3">Voyager 2</string>
+
+    <string name="pregunta_4">What is the "habitable zone" in a solar system?</string>
+    <string name="respuesta_a_4">The region where liquid water can exist</string>
+    <string name="respuesta_b_4"> The region where gravity is lower</string>
+
+    <string name="pregunta_5"> What are "gravitational anomalies" on planets?</string>
+    <string name="respuesta_a_5">Regions where gravity varies due to internal mass changes</string>
+    <string name="respuesta_b_5">Regions where gravity is zero</string>
+
+    <string name="finTest">Contratulations! You have finished the test</string>
+
+
+    <string name="correcto">CORRECT</string>
+    <string name="incorrecto">INCORRECT</string>
+
+    <string name="explicacion_1">Black holes are not actually black, this is because they do not let light escape, and by not emitting light, they take on the color of darkness.</string>
+    <string name="explicacion_2">On Saturn, one day is equivalent to 243 Earth days.</string>
+    <string name="explicacion_3">The mission of the Voyager probes was to explore the limits of the Solar System. Voyager 2 is currently 19.9 billion kilometers from Earth, more than three times the distance to Pluto.</string>
+    <string name="explicacion_4">Liquid water is one of the foundations for life. Depending on the distance between a planet and it\'s star, we can infer its temperatures and therefore whether it is possible for liquid water to exist.</string>
+    <string name="explicacion_5">Gravitational anomalies refer to variations in the Earth\'s gravitational field that indicate differences in the density of underground rocks. These anomalies allow geophysicists to identify geological structures such as sedimentary basins or mineralized zones.</string>
+
+    <string name="siguiente_pregunta">Next question</string>
+    <string name="enviar_respuesta">Submit response</string>
+
+</resources>

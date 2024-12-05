@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pregunta_1">¿Cual es el nombre de la región del espacio donde la gravedad de un agujero negro es tan fuerte que nada, ni siquiera la luz, puede escapar?</string>
+    <string name="respuesta_a_1">Horizonte de eventos</string>
+    <string name="respuesta_b_1">Perihelio</string>
+
+    <string name="pregunta_2">¿Qúe planeta del sistema solar tiene los días más largos?</string>
+    <string name="respuesta_a_2">Venus</string>
+    <string name="respuesta_b_2">Saturno</string>
+
+    <string name="pregunta_3">¿Cuál fue la primera sonda espacial en llegar a Plutón y enviar imágenes detalladas de él?</string>
+    <string name="respuesta_a_3">New Horizons</string>
+    <string name="respuesta_b_3">Voyager 2</string>
+
+    <string name="pregunta_4">¿Qúe es la zona habitable en un sistema solar?</string>
+    <string name="respuesta_a_4">La región donde puede existir agua en estado líquido</string>
+    <string name="respuesta_b_4">La región donde la gravedad es menor</string>
+
+    <string name="pregunta_5">¿Qué son las anomaías gravitacionales en los planetas?</string>
+    <string name="respuesta_a_5">Regiones donde la gravedad varía debido a cambios en la masa interna</string>
+    <string name="respuesta_b_5">Regiones donde la gravedad es nula</string>
+
+    <string name="finTest">Enhorabuena, has terminado el test</string>
+
+
+    <string name="correcto">CORRECTO</string>
+    <string name="incorrecto">INCORRECTO</string>
+
+    <string name="explicacion_1">Los agujeros negros, no son negros en verdad, esto se debe a que no dejan escapar la luz, y al no desprender luz adquieren el color de la oscuridad</string>
+    <string name="explicacion_2">En saturno un -dia- equivale a 243 días terrestres</string>
+    <string name="explicacion_3">La misión de las sondas Voyaguer era explorar los límites del Sistema Solar, la Voyaguer 2 actualmente está a 19.900 millones de kilómetros de la Tierra mas de 3 veces la distancia hasta plutón</string>
+    <string name="explicacion_4">El agua líquida es una de las bases para la vida, dependiendo de la ditancia entre un planeta y su estrella, podemos intuir sus temperaturas y por tanto si es posible que tenga agua líquida</string>
+    <string name="explicacion_5">Las anomalías gravimétricas se refieren a las variaciones en el campo gravitatorio terrestre que indican diferencias en la densidad de las rocas subterráneas. Estas anomalías permiten a los geofísicos identificar estructuras geológicas como cuencas sedimentarias o zonas mineralizadas.</string>
+
+    <string name="siguiente_pregunta">Siguiente pregunta</string>
+    <string name="enviar_respuesta">Enviar respuesta</string>
+</resources>
